@@ -269,27 +269,6 @@ Tata Steel sits mid-pack. No peer reaches the Safe Zone, which reflects the leve
 
 ---
 
-## Repository Contents
-
-```
-tata-steel-credit-risk-model/
-├── Tata_Steel_Credit_Risk_Model.xlsx   # The full Excel model
-├── README.md                           # This file
-└── screenshots/                        # (optional) images of the dashboard and charts
-```
-
-### Screenshots (add yours here)
-
-After uploading images to a `screenshots` folder, display them with:
-
-```markdown
-![Dashboard](screenshots/dashboard.png)
-![Stress Test](screenshots/stress-test.png)
-![Peer Comparison](screenshots/peer-comparison.png)
-```
-
----
-
 ## Author
 
 **Helan Preethi**
